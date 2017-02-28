@@ -1,0 +1,8 @@
+{
+  "description": "Sublime Text Plugin that allows you to perform the Extract Variable refactoring in ruby code.", 
+  "url": "https://github.com/shadowradiance/ruby-extract-variable",   
+  "platforms": ["*"], 
+  "version": "2017.02.28.02.01.00", 
+  "sublime_text": "<3000", 
+  "dependencies": []
+}

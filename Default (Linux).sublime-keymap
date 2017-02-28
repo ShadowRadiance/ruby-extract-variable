@@ -1,0 +1,3 @@
+[
+  {"keys": ["alt+v"], "command": "ruby_extract_variable"}
+]
